@@ -1,3 +1,4 @@
+# Properly displayes each game state
 import game
 
 

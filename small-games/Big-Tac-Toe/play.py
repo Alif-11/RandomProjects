@@ -1,5 +1,7 @@
+# Handles taking user inputs
+# and acts as a driver file for the other scripts files.
+
 import display
-# THIS IS MY DRIVER FILE.
 
 
 def game_text():
